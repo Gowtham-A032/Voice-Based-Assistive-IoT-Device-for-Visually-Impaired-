@@ -42,4 +42,3 @@ Install these via Arduino IDE Library Manager or manually add them to your `libr
 
 ---
 
-## 📂 File Structure
