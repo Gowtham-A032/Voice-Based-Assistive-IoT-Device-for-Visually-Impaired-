@@ -40,13 +40,7 @@ It combines **microphone, speaker, LCD, and wireless connectivity** to deliver a
 
 Install these via Arduino IDE Library Manager or manually add them to your `libraries/` folder.
 
-# Voice-Based Assistive IoT Device for Visually Impaired Students
 
-## 📖 Overview
-This project is a **voice-driven assistive IoT device** designed to support visually impaired students in their learning journey.  
-Built on **Arduino Mega2560** and integrated with the **ChatGPT IoT Master API**, the device accepts voice commands and responds with real-time educational assistance.  
-
-It combines **microphone, speaker, LCD, and wireless connectivity** to deliver accessible, AI-powered interaction.
 
 ![Final Year Project Hardware Setup](https://github.com/Gowtham-A032/Voice-Based-Assistive-IoT-Device-for-Visually-Impaired-/blob/main/image/final_year_project_hardware_setup_.jpeg)
 
